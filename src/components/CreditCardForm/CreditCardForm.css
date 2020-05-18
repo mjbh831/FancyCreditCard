@@ -1,0 +1,14 @@
+.label {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+}
+.rounded {
+  -webkit-box-shadow: 1px 43px 47px 4px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 1px 43px 47px 4px rgba(0, 0, 0, 0.15);
+  box-shadow: 1px 43px 47px 4px rgba(0, 0, 0, 0.15);
+}
+.submit {
+  -webkit-box-shadow: 1px 29px 23px -12px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 1px 29px 23px -12px rgba(0, 0, 0, 0.08);
+  box-shadow: 1px 29px 23px -12px rgba(0, 0, 0, 0.08);
+}
